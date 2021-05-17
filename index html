@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 <body>
@@ -7,4 +8,15 @@
 <p>První řádek o úkolu z 17.5</p>
 
 </body>
+=======
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Úkol z 17.5</h1>
+
+<p>První řádek o úkolu z 17.5</p>
+
+</body>
+>>>>>>> e279a213dab2752720eea41b731b8b188330b41d
 </html>
